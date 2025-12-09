@@ -1,0 +1,17 @@
+# ninja log v6
+22	2224	7870195011558198	LibrarySys_autogen/timestamp	72dac29468762791
+22	2224	7870195011558198	LibrarySys_autogen/mocs_compilation.cpp	72dac29468762791
+22	2224	7870195011558198	D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/LibrarySys_autogen/timestamp	72dac29468762791
+22	2224	7870195011558198	D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/LibrarySys_autogen/mocs_compilation.cpp	72dac29468762791
+2309	9722	7870195014060830	CMakeFiles/LibrarySys.dir/Book.cpp.obj	478a4f0736739fba
+2250	11911	7870195013467494	CMakeFiles/LibrarySys.dir/main.cpp.obj	f4f43e40675b5030
+2231	11938	7870195013276915	CMakeFiles/LibrarySys.dir/LibrarySys_autogen/mocs_compilation.cpp.obj	b04272ee3dab1fbc
+2270	12589	7870195013664480	CMakeFiles/LibrarySys.dir/MainWindow.cpp.obj	a48dd52d36317134
+2290	13836	7870195013870397	CMakeFiles/LibrarySys.dir/Library.cpp.obj	3fe0f907a25a5735
+13836	16918	7870195129327808	LibrarySys.exe	3eb736f212fcbdbb
+40	393	7870197029638957	LibrarySys_autogen/timestamp	72dac29468762791
+40	393	7870197029638957	LibrarySys_autogen/mocs_compilation.cpp	72dac29468762791
+40	393	7870197029638957	D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/LibrarySys_autogen/timestamp	72dac29468762791
+40	393	7870197029638957	D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/LibrarySys_autogen/mocs_compilation.cpp	72dac29468762791
+394	3935	7870197033181718	CMakeFiles/LibrarySys.dir/Book.cpp.obj	478a4f0736739fba
+3935	6521	7870197068589935	LibrarySys.exe	3eb736f212fcbdbb

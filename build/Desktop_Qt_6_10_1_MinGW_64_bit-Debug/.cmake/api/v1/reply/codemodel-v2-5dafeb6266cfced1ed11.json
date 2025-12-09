@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LibrarySys",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LibrarySys::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LibrarySys-Debug-59f2449bef6d334ed691.json",
+					"name" : "LibrarySys",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LibrarySys_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LibrarySys_autogen-Debug-e2e0e3dc28f5b57fc121.json",
+					"name" : "LibrarySys_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LibrarySys_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LibrarySys_autogen_timestamp_deps-Debug-e0d8739775a8ba3f493a.json",
+					"name" : "LibrarySys_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug",
+		"source" : "D:/C++/LibrarySys_fixed"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

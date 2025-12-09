@@ -1,0 +1,5 @@
+D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/LibrarySys.dir
+D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/LibrarySys_autogen_timestamp_deps.dir
+D:/C++/LibrarySys_fixed/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/CMakeFiles/LibrarySys_autogen.dir
